@@ -1,4 +1,4 @@
-#These command write in git bash () if not install [https://git-scm.com/downloads][click here]
+#These command write in git bash ( if not install [https://git-scm.com/downloads])
 
 
 
