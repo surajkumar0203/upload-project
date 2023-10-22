@@ -1,3 +1,7 @@
+#These command write in git bash () if not install [https://git-scm.com/downloads][click here]
+
+
+
 # First Step
 git init
 # Second Step
