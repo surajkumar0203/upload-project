@@ -12,7 +12,7 @@ git commit -me "commit message"
 git branch -M main (if branch is master/main see that)  
 # Fifth Step
 git remote add origin <GitHub link>
-#Sixth Step
+# Sixth Step
 git push -u origin main
 
 #Your project will be uploaded
